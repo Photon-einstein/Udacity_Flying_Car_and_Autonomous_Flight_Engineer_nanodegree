@@ -15,3 +15,4 @@ The main goal of this project is to build a quadrotor that can successfully take
 around a backyard.
 
 * **Project**: Backyard Flyer
+<img src="0-Media/1-Backyard_Flyer_project.gif" width="900" height="400" />
