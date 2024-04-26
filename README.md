@@ -9,7 +9,7 @@ This section enumerates the projects you need to complete in order to receive yo
 ### Introduction to Autonomous Flight
 
 In this course, you will get an introduction to flight history, challenges, and vehicles. 
-You will learn about our quadrotor test platform, work in our custom simulator, and build 
+You will learn about our quadrotor test platform, work in our custom simulator, and build  
 your first project: getting a quadrotor to take-off and fly around a backyard!
 
 * **Project**: Backyard Flyer
