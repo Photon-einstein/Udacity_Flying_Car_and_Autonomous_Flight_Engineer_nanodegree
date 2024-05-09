@@ -27,3 +27,4 @@ three-dimensional space. Your hands-on experience will come in your second assig
 guide your drone through a crowded cityscape all on its own.
 
 * **Project**: 3D Motion Planning
+<img src="0-Media/2-Motion_Planning_project.gif" width="900" height="400" />
